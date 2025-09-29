@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.sdf
+*.cachefile
+*.dbmdl
+*.bak
+
+# 编译结果
+Debug/
+Release/
+x64/
+bin/
+obj/
+
+# 其他临时文件
+*.log
+*.tmp
+*.exe
+*.dll
+*.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DS循环链表—约瑟夫环(Ver. I - A)", "DS循环链表—约瑟夫环(Ver. I - A)\DS循环链表—约瑟夫环(Ver. I - A).vcxproj", "{818D49F3-AAB2-4BA5-A46C-110A6C9D7158}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{818D49F3-AAB2-4BA5-A46C-110A6C9D7158}.Debug|x64.ActiveCfg = Debug|x64
+		{818D49F3-AAB2-4BA5-A46C-110A6C9D7158}.Debug|x64.Build.0 = Debug|x64
+		{818D49F3-AAB2-4BA5-A46C-110A6C9D7158}.Debug|x86.ActiveCfg = Debug|Win32
+		{818D49F3-AAB2-4BA5-A46C-110A6C9D7158}.Debug|x86.Build.0 = Debug|Win32
+		{818D49F3-AAB2-4BA5-A46C-110A6C9D7158}.Release|x64.ActiveCfg = Release|x64
+		{818D49F3-AAB2-4BA5-A46C-110A6C9D7158}.Release|x64.Build.0 = Release|x64
+		{818D49F3-AAB2-4BA5-A46C-110A6C9D7158}.Release|x86.ActiveCfg = Release|Win32
+		{818D49F3-AAB2-4BA5-A46C-110A6C9D7158}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE9A2E70-198F-426B-9DBE-7B755FE4B840}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "在职研究生（多重继承）", "在职研究生（多重继承）\在职研究生（多重继承）.vcxproj", "{4BBB47FD-35E3-48FB-8E68-9DEC7EED1580}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BBB47FD-35E3-48FB-8E68-9DEC7EED1580}.Debug|x64.ActiveCfg = Debug|x64
+		{4BBB47FD-35E3-48FB-8E68-9DEC7EED1580}.Debug|x64.Build.0 = Debug|x64
+		{4BBB47FD-35E3-48FB-8E68-9DEC7EED1580}.Debug|x86.ActiveCfg = Debug|Win32
+		{4BBB47FD-35E3-48FB-8E68-9DEC7EED1580}.Debug|x86.Build.0 = Debug|Win32
+		{4BBB47FD-35E3-48FB-8E68-9DEC7EED1580}.Release|x64.ActiveCfg = Release|x64
+		{4BBB47FD-35E3-48FB-8E68-9DEC7EED1580}.Release|x64.Build.0 = Release|x64
+		{4BBB47FD-35E3-48FB-8E68-9DEC7EED1580}.Release|x86.ActiveCfg = Release|Win32
+		{4BBB47FD-35E3-48FB-8E68-9DEC7EED1580}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CF6236D-9890-4538-A36A-2209289B57B2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "【程序填空】复数运算（运算符重载+=）", "【程序填空】复数运算（运算符重载+=）\【程序填空】复数运算（运算符重载+=）.vcxproj", "{14C31589-62EE-48FC-BBF1-37A856D31E1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14C31589-62EE-48FC-BBF1-37A856D31E1E}.Debug|x64.ActiveCfg = Debug|x64
+		{14C31589-62EE-48FC-BBF1-37A856D31E1E}.Debug|x64.Build.0 = Debug|x64
+		{14C31589-62EE-48FC-BBF1-37A856D31E1E}.Debug|x86.ActiveCfg = Debug|Win32
+		{14C31589-62EE-48FC-BBF1-37A856D31E1E}.Debug|x86.Build.0 = Debug|Win32
+		{14C31589-62EE-48FC-BBF1-37A856D31E1E}.Release|x64.ActiveCfg = Release|x64
+		{14C31589-62EE-48FC-BBF1-37A856D31E1E}.Release|x64.Build.0 = Release|x64
+		{14C31589-62EE-48FC-BBF1-37A856D31E1E}.Release|x86.ActiveCfg = Release|Win32
+		{14C31589-62EE-48FC-BBF1-37A856D31E1E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECD0603D-775B-4339-A7DE-B59F36210082}
+	EndGlobalSection
+EndGlobal
